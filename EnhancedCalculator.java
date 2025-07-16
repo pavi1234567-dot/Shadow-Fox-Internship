@@ -91,7 +91,7 @@ public class EnhancedCalculator {
                         System.out.print("Enter amount in USD: ");
                         double usd = scanner.nextDouble();
 
-                          // 1 USD = 85.81 INR
+                        // 1 USD = 85.81 INR
                         double inr = usd * RATE;
 
                         System.out.printf("INR = %.2f%n", inr);  // Example: Output will be INR = 858.10 if USD = 10
