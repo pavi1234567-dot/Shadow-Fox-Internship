@@ -42,8 +42,8 @@ This project is a "console-based calculator" developed using "Java" as part of t
    
 🧑‍🎓 Author
 
-Pavitra L K
-ShadowFox Virtual Internship Program
+Pavitra L K,
+ShadowFox Virtual Internship Program,
 GitHub: pavi1234567-dot
 
 
