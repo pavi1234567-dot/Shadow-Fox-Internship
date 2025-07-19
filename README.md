@@ -1,5 +1,6 @@
 # Shadow-Fox-Internship  
-# Enhanced Java Console Calculator
+# Beginer-Task-1
+
 
 This project is a "console-based calculator" developed using "Java" as part of the ShadowFox Internship. It supports a variety of operations from simple arithmetic to scientific and unit conversions.
 
